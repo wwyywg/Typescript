@@ -1,1 +1,3 @@
-console.log("He")
+console.log("He");
+
+var num:number=1;

@@ -1,3 +1,7 @@
 console.log("He");
 
-var num:number=1;
+function fn(){
+    
+}
+
+var str:string="ts文件";
